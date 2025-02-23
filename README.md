@@ -1,20 +1,52 @@
-<h1 align="center"> </> Heyy there , I'm Anshul 🧑‍💻</h1>
-<!-- <h3 align="center">A passionate Software Developer from India 💻</h3>
- -->
- 
-- I’m working as a **Full Stack Developer 💻** 
+<h1 align="center">👋 Hey there, I'm Shubham 🧑‍💻</h1>  
+<h3 align="center">Data Engineer | SQL | Python | Snowflake | Cloud | ETL</h3>  
 
-- These days I’m learning **React ⚛ 🚀** 
+- 🚀 **Data Engineer** with **3+ years of experience** designing scalable ETL pipelines and managing large datasets (2TB+).  
+- 🔍 Passionate about **Big Data, Cloud Computing, and Data Engineering best practices**.  
+- 💡 Currently learning **React** to explore front-end development.  
+- 📫 Reach me at **[shubhmandal98@gmail.com](mailto:shubhmandal98@gmail.com)**  
+- 🌐 Check out my **[Portfolio](https://shubhcode1998.github.io/portfolio/)**  
 
-- 📫 Write me at **anshul9931@gmail.com**
+## 🛠️ Skills & Technologies  
 
-- ⚡ Fun fact **I once tried to upload node modules here 😭**
+### **Languages & Databases**  
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sqlite)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+### **Cloud & Big Data**  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch)  
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+### **ETL & Data Engineering Tools**  
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)  
+![Parquet](https://img.shields.io/badge/-Parquet-005571?style=flat)  
 
-<!-- [![TechCursed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TechCursed&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/TechCursed/github-readme-activity-graph)
- -->
-## :trophy: TechCursed's Github Stats:
+## 🏆 Projects  
+
+### **🚀 Automated Data Pipeline – Elasticsearch to Snowflake**  
+- Designed and deployed a **scalable ETL pipeline** to transfer data from **Elasticsearch to Snowflake**.  
+- Implemented **multi-threading** for efficient data ingestion.  
+- Automated execution via **cron jobs on AWS EC2**.  
+- Ensured **real-time analytics** with structured storage and optimized querying.  
+
+### **📊 File Tracking and Notification Automation**  
+- Developed a **Python automation script** to process and monitor incoming data files.  
+- Integrated **SendGrid API** for real-time **email notifications**.  
+- Enhanced workflow efficiency with **automated reporting and tracking**.  
+
+## 📈 GitHub Stats  
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhcode1998&show_icons=true&theme=dark)  
+
+<!-- [![Shubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhcode1998&theme=github)](https://github.com/shubhcode1998) -->  
+
+---
+
+Would you like me to add **more sections** (like certifications, blog links, or contributions)? 🚀  
